@@ -22,6 +22,7 @@
   <link crossorigin="anonymous" media="all" integrity="sha512-9f3NsOQR/iafpq5oTq9iaNzpmB3VaUcvR6AtzwqKitGWmnCnxlp4dfbENMlnj8IgKSCuwyrZTQ6Rok0xkfeiLA==" rel="stylesheet" href="https://github.githubassets.com/assets/site-e4d561c16b6b9aaadbf00c0559c20085.css" />
     <link crossorigin="anonymous" media="all" integrity="sha512-wJhnzAfXEZIRVozNeRj3om7LYMKNuN4/pWiws3GvDrVcYuSnHZVWzVFF0nocd7vibgFePdnbVtr/SgFIOP/FcA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-038ca28f0d66963cc8fcdd04180ca5e0.css" />
     
+  
     ja:
      activerecord:
       errors:
