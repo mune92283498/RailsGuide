@@ -67,3 +67,4 @@ gem 'slim-rails'
 gem 'html2slim'
 gem 'bootstrap'
 gem 'rails_autolink'
+gem 'nokogiri',">=1.10.4"
